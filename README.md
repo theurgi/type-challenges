@@ -23,12 +23,12 @@
       <td><a href="./easy/00004_pick/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✔️</td>
       <td>
         <a href="./easy/00007_readonly/README.md"><b>Readonly</b></a>
       </td>
-      <td></td>
-      <td></td>
+  			<td><a href="./easy/00007_readonly/notes.md">notes</a></td>
+      <td><a href="./easy/00007_readonly/solution.ts">solution</a></td>
     </tr>
     <tr>
       <td></td>
