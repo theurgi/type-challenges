@@ -17,7 +17,7 @@ type MyReadonly<T> = {
 }
 ```
 
-Using `MyReadonly`, we can can rewrite the example from the challenge:
+Using `MyReadonly`, we can now rewrite the example from the challenge:
 
 ```typescript
 interface Todo {
