@@ -4,7 +4,7 @@
 one of TypeScript's built in [utility
 types](https://www.typescriptlang.org/docs/handbook/utility-types.html) which:
 
-> Constructs a type with all properties of Type set to readonly, meaning the properties of the constructed type cannot be reassigned.
+> Constructs a type with all properties of `Type` set to readonly, meaning the properties of the constructed type cannot be reassigned.
 
 ## Solution
 
