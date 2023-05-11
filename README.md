@@ -31,14 +31,14 @@
       <td><a href="./easy/00007_readonly/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✔️</td>
       <td>
         <a href="./easy/00011_tuple_to_object/README.md"
           ><b>Tuple to Object</b></a
         >
       </td>
-      <td></td>
-      <td></td>
+      <td><a href="./easy/00011_tuple_to_object/notes.md">notes</a></td>
+      <td><a href="./easy/00011_tuple_to_object/solution.ts">solution</a></td>
     </tr>
     <tr>
       <td></td>
