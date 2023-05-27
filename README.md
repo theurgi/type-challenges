@@ -41,14 +41,14 @@
       <td><a href="./easy/00011_tuple_to_object/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✔️</td>
       <td>
         <a href="./easy/00014_first_of_array/README.md"
           ><b>First of Array</b></a
         >
       </td>
-      <td></td>
-      <td></td>
+      <td><a href="./easy/00014_first_of_array/notes.md">notes</a></td>
+      <td><a href="./easy/00014_first_of_array/solution.ts">solution</a></td>
     </tr>
   </tbody>
 </table>
