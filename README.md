@@ -15,50 +15,84 @@
 <table>
   <tbody>
     <tr>
-      <td>✔️</td>
-      <td>
-        <a href="./easy/00004_pick/README.md"><b>Pick</b></a>
-      </td>
+      <td>✅</td>
+      <td><a href="./easy/00004_pick/README.md"><b>Pick</b></a></td>
 			<td><a href="./easy/00004_pick/notes.md">notes</a></td>
       <td><a href="./easy/00004_pick/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td>✔️</td>
-      <td>
-        <a href="./easy/00007_readonly/README.md"><b>Readonly</b></a>
-      </td>
-  			<td><a href="./easy/00007_readonly/notes.md">notes</a></td>
+      <td>✅</td>
+      <td><a href="./easy/00007_readonly/README.md"><b>Readonly</b></a></td>
+  		<td><a href="./easy/00007_readonly/notes.md">notes</a></td>
       <td><a href="./easy/00007_readonly/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td>✔️</td>
+      <td>✅</td>
       <td>
-        <a href="./easy/00011_tuple_to_object/README.md"
-          ><b>Tuple to Object</b></a
-        >
+        <a href="./easy/00011_tuple_to_object/README.md"><b>Tuple to Object</b></a>
       </td>
       <td><a href="./easy/00011_tuple_to_object/notes.md">notes</a></td>
       <td><a href="./easy/00011_tuple_to_object/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td>✔️</td>
-      <td>
-        <a href="./easy/00014_first_of_array/README.md"
-          ><b>First of Array</b></a
-        >
-      </td>
+      <td>✅</td>
+      <td><a href="./easy/00014_first_of_array/README.md"><b>First of Array</b></a></td>
       <td><a href="./easy/00014_first_of_array/notes.md">notes</a></td>
       <td><a href="./easy/00014_first_of_array/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td>✔️</td>
-      <td>
-        <a href="./easy/00018_tuple_length/README.md"
-          ><b>First of Array</b></a
-        >
-      </td>
+      <td>✅</td>
+      <td><a href="./easy/00018_tuple_length/README.md"><b>Tuple Length</b></a></td>
       <td><a href="./easy/00018_tuple_length/notes.md">notes</a></td>
       <td><a href="./easy/00018_tuple_length/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/00043_exclude/README.md"><b>Exclude</b></a></td>
+      <td><a href="./easy/00043_exclude/notes.md">notes</a></td>
+      <td><a href="./easy/00043_exclude/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/00189_awaited/README.md"><b>Awaited</b></a></td>
+      <td><a href="./easy/00189_awaited/notes.md">notes</a></td>
+      <td><a href="./easy/00189_awaited/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/00268_if/README.md"><b>If</b></a></td>
+      <td><a href="./easy/00268_if/notes.md">notes</a></td>
+      <td><a href="./easy/00268_if/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/00533_concat/README.md"><b>Concat</b></a></td>
+      <td><a href="./easy/00533_concat/notes.md">notes</a></td>
+      <td><a href="./easy/00533_concat/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/00898_includes/README.md"><b>Includes</b></a></td>
+      <td><a href="./easy/00898_includes/notes.md">notes</a></td>
+      <td><a href="./easy/00898_includes/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/03057_push/README.md"><b>Push</b></a></td>
+      <td><a href="./easy/03057_push/notes.md">notes</a></td>
+      <td><a href="./easy/03057_push/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/03060_unshift/README.md"><b>Unshift</b></a></td>
+      <td><a href="./easy/03060_unshift/notes.md">notes</a></td>
+      <td><a href="./easy/03060_unshift/solution.ts">solution</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="./easy/03312_parameters/README.md"><b>Parameters</b></a></td>
+      <td><a href="./easy/03312_parameters/notes.md">notes</a></td>
+      <td><a href="./easy/03312_parameters/solution.ts">solution</a></td>
     </tr>
   </tbody>
 </table>
@@ -69,35 +103,25 @@
   <tbody>
     <tr>
       <td></td>
-      <td>
-        <a href="./medium/00002_return_type/README.md"><b>Return Type</b></a>
-      </td>
+      <td><a href="./medium/00002_return_type/README.md"><b>Return Type</b></a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td>
-        <a href="./medium/00003_omit/README.md"><b>Omit</b></a>
-      </td>
+      <td><a href="./medium/00003_omit/README.md"><b>Omit</b></a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td>
-        <a href="./medium/00008_readonly_2/README.md"><b>Readonly 2</b></a>
-      </td>
+      <td><a href="./medium/00008_readonly_2/README.md"><b>Readonly 2</b></a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td>
-        <a href="./medium/00009_deep_readonly/README.md"
-          ><b>Deep Readonly</b></a
-        >
-      </td>
+      <td><a href="./medium/00009_deep_readonly/README.md"><b>Deep Readonly</b></a></td>
       <td></td>
       <td></td>
     </tr>
