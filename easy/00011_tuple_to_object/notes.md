@@ -1,4 +1,4 @@
-# Notes
+# Tuple to Object
 
 This challenge is about transforming a tuple into an object type, where each key-value pair in the object corresponds to an element in the tuple.
 

@@ -1,4 +1,4 @@
-# Notes
+# Pick
 
 This challenge is to recreate the TS core library utility type
 [`Pick<Type, Keys>`](https://www.typescriptlang.org/docs/handbook/utility-types.html#picktype-keys) which:

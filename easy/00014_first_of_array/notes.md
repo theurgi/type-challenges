@@ -1,4 +1,4 @@
-# Notes
+# First of Array
 
 The challenge asks us to implement a TypeScript generic `First<T>` that takes an Array `T` and returns the type of its first element.
 
