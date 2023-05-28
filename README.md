@@ -50,6 +50,16 @@
       <td><a href="./easy/00014_first_of_array/notes.md">notes</a></td>
       <td><a href="./easy/00014_first_of_array/solution.ts">solution</a></td>
     </tr>
+    <tr>
+      <td>✔️</td>
+      <td>
+        <a href="./easy/00018_tuple_length/README.md"
+          ><b>First of Array</b></a
+        >
+      </td>
+      <td><a href="./easy/00018_tuple_length/notes.md">notes</a></td>
+      <td><a href="./easy/00018_tuple_length/solution.ts">solution</a></td>
+    </tr>
   </tbody>
 </table>
 
