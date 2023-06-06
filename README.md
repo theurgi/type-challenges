@@ -53,7 +53,7 @@
       <td><a href="./easy/00043_exclude/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✅</td>
       <td><a href="./easy/00189_awaited/README.md"><b>Awaited</b></a></td>
       <td><a href="./easy/00189_awaited/notes.md">notes</a></td>
       <td><a href="./easy/00189_awaited/solution.ts">solution</a></td>
