@@ -59,7 +59,7 @@
       <td><a href="./easy/00189_awaited/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✅</td>
       <td><a href="./easy/00268_if/README.md"><b>If</b></a></td>
       <td><a href="./easy/00268_if/notes.md">notes</a></td>
       <td><a href="./easy/00268_if/solution.ts">solution</a></td>
