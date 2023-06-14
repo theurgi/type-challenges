@@ -65,7 +65,7 @@
       <td><a href="./easy/00268_if/solution.ts">solution</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✅</td>
       <td><a href="./easy/00533_concat/README.md"><b>Concat</b></a></td>
       <td><a href="./easy/00533_concat/notes.md">notes</a></td>
       <td><a href="./easy/00533_concat/solution.ts">solution</a></td>
